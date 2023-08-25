@@ -5,7 +5,7 @@ import pyfiglet
 import threading
 
 
-ASCII_art_1 = pyfiglet.figlet_format("Port Scanner by sudomosh")
+ASCII_art_1 = pyfiglet.figlet_format("Port Scanner by avinash")
 print(ASCII_art_1)
 
 usage = "python3 port_Scanner <TARGET IP> <START PORT> <END PORT>"
